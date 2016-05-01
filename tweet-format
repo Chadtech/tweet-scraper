@@ -1,0 +1,21 @@
+div Tweet
+  div Content
+    div Stream Item Header
+      a js-user-profile-link js-action-profile
+        img avatar 
+          src = **** PROFILE PIC ****
+        strong fullname
+          text **** USER NAME ****
+        span username
+          b
+            text **** HANDLE ****
+        a tweet-timestamp
+          title = **** TIME STAMP ****
+
+
+    div js-tweet-text-container
+      p tweet-text
+        text **** TWEET TEXT + IMAGE LINKS ****
+
+        
+        
