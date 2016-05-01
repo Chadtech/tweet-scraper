@@ -1,4 +1,10 @@
-Run
+Install
+
+```
+  npm install
+```
+
+then run
 
 ```
   coffee tweet-scraper.coffee dril
